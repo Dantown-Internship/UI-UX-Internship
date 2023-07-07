@@ -1,6 +1,6 @@
 Hey Guys,
 
-Welcome to the Dantown Front-End Internship Program
+Welcome to the Dantown UI/UX Internship Program
 
 we are eager to learn more about your capabilities.
 
