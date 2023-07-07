@@ -2,12 +2,12 @@ Hey Guys,
 
 Welcome to the Dantown Front-End Internship Program
 
-You are required to create a branch from the main branch and initialize a Next.js application
+we are eager to learn more about your capabilities.
 
-Build out the UI and its corresponding components as seen in the figma file below
+As part of our process, we have an assignment for you designed to better understand your design thinking  approach, problem-solving skills, and application of UX/UI principles. The task involves designing a mobile application for crypto trading. The application should allow users to:
 
-https://www.figma.com/file/80Ta7rbpKp4tytob7BnyQs/Dantown-Internship?type=design&node-id=2-38&mode=design
+- Trade crypto  
+- Get credited in NGN
+- Receive notifications and settings page
 
-Subsequently make a Pull Request to the main branch
-
-You can use any Front-End Tooling of your choice be it styled-components or whatnot
+Your designs are meant to be done with figma.
