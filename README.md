@@ -11,3 +11,4 @@ As part of our process, we have an assignment for you designed to better underst
 - Receive notifications and settings page
 
 Your designs are meant to be done with figma.
+Submit your work to dantowndesigners@gmail.com and copy ayoleyilurogho@godantown.com
